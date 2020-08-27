@@ -10,6 +10,6 @@ def key_for_min_value(name_hash)
  low_key = nil
 
  return true if value < 1
- 
+
  
 end
