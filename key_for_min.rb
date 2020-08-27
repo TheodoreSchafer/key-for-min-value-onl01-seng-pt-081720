@@ -6,5 +6,10 @@
 #OR,, hmmmm
 
 def key_for_min_value(name_hash)
- return true if value < 0
+ low_value = 0
+ low_key = nil
+
+ return true if value < 1
+ 
+ 
 end
